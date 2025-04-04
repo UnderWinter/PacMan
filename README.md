@@ -1,3 +1,3 @@
 # PacMan
 PacMan Developemnt
-Nothing much just a pacman game with extra features.
+"PacMan development – It’s nothing too fancy, just a Pac-Man game with some extra stuff I added for fun!"
