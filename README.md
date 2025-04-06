@@ -5,4 +5,4 @@
 
 ![BETTER](https://github.com/user-attachments/assets/ab729d00-f652-48cf-b815-f6189dcc0f36)
 
-"PacMan development – It’s nothing too fancy, just a Pac-Man game with some extra stuff I added for fun!"
+Stay tuned. Currently under developement
