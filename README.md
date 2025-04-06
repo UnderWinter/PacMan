@@ -4,7 +4,6 @@
 -------------------------------------------------------------------------------------------
 
 ![BETTER](https://github.com/user-attachments/assets/ab729d00-f652-48cf-b815-f6189dcc0f36)
+**Get ready for a fast-paced, reliable (but still in progress!) experience with frequent updates! We’re constantly working to bring new features and improvements, for the latest changes!**
 
 **Stay tuned. Currently under developement!**
-
-**Get ready for a fast-paced, reliable (but still in progress!) experience with frequent updates! We’re constantly working to bring new features and improvements, for the latest changes!**
